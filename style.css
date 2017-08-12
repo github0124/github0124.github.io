@@ -1,0 +1,10 @@
+body {
+	font-family:consolas;
+}
+a {
+	color:blue;
+	text-decoration:none;
+}
+a:hover {
+	color:purple
+}
